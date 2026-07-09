@@ -32,6 +32,8 @@ Compile the project with:
 gcc main.c -o main -pthread
 ```
 
+Or download the compiled binary instead: 
+[![GitHub release](https://github.com/rodrigomfpereira/csv-data-manager-c/releases/tag/v1.0.0)
 ## Run
 
 ```bash
