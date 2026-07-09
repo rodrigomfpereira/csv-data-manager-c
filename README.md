@@ -33,7 +33,8 @@ gcc main.c -o main -pthread
 ```
 
 Or download the compiled binary instead: 
-[![GitHub release](https://github.com/rodrigomfpereira/csv-data-manager-c/releases/tag/v1.0.0)
+[![GitHub release](https://img.shields.io/github/v/release/rodrigomfpereira/csv-data-manager-c)](https://github.com/rodrigomfpereira/csv-data-manager-c/releases/latest)
+
 ## Run
 
 ```bash
