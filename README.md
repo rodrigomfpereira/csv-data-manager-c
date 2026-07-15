@@ -1,8 +1,8 @@
-# CSV Data Manager in C (`csv-data-manager-c`)
+# CSV Data Manager in C 
 
 Operating Systems university project developed during the second year of the Computer Engineering degree.
 
-> **Note:** The application's interface and console output are in Portuguese, as the project was originally developed for a Portuguese university course.
+> **Note:** The application's interface and console output are in Portuguese, as the project was originally developed for a Portuguese university course. It was a requirement for the whole code to be in a single file, otherwise I would have separated it.
 
 This project is a concurrent CSV data processing application written in C for Linux. It demonstrates process management, multithreading, inter-process communication, and synchronization while reading, processing, and manipulating CSV files.
 
